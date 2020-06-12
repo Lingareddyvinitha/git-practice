@@ -6,3 +6,5 @@ g
 h
 girl
 boy
+house
+watch
